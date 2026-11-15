@@ -1,0 +1,54 @@
+# 本机配置与凭据
+.env
+.env.*
+!.env.example
+handoff.config.ps1
+.npmrc
+.pypirc
+.netrc
+*.key
+*.pem
+*.pfx
+*.p12
+
+# 安装依赖、运行环境和模型
+node_modules/
+.venv/
+venv/
+/runtime/
+/models/
+/app/external/
+/app/.model-cache/
+/app/.model-runtime/
+/dependency-records/generation/
+/dependency-records/segmentation/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# 本机记录、构建产物和编辑器配置
+dist/
+outputs/
+logs/
+.cache/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+*.log
+playwright-report/
+test-results/
+.vscode/
+.idea/
+.history/
+.DS_Store
+Thumbs.db
+
+# 生成的网页数据与单独分发的工程、压缩包
+/app/website/public/data/
+/app/website/public/patterns/
+/app/website/public/elements/
+*.toe
+*.zip
+*.rar
+*.7z

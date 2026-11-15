@@ -1,0 +1,70 @@
+{
+  "workbook": "纹样库/侗族/_标注成果/03_标注数据/侗族80张纹样标注成果.xlsx",
+  "worksheet": "资料来源",
+  "workbookSha256": "3dfa498c607db80b654e9e03be71ccc530c6303563a11f983dd256292c0be9b8",
+  "sources": [
+    {
+      "id": "S001",
+      "title": "侗族纹样库：新世界的开始",
+      "author": "纹藏／怀化市民族宗教事务局",
+      "year": "2019",
+      "type": "政府／民族文化资料",
+      "url": "https://www.huaihua.gov.cn/mzswj/c108772/201907/1a2ada1212f643ceb1f08fb3b7f53f56.shtml",
+      "scope": "太阳榕树花纹、盘龙纹、太清浊二气纹、卷龙如意纹、八角花、马纹等名称识别"
+    },
+    {
+      "id": "S002",
+      "title": "侗族服饰纹样及其文化研究",
+      "author": "程潇、张爽",
+      "year": "2017",
+      "type": "研究文章",
+      "url": "https://www.chinawriter.com.cn/n1/2017/0620/c404102-29349601.html",
+      "scope": "蜘蛛纹、榕树纹、太阳纹、鱼纹及其文化语境"
+    },
+    {
+      "id": "S003",
+      "title": "粟田梅：‘侗’听世界",
+      "author": "政协融媒记者 黄璐",
+      "year": "2026",
+      "type": "人物／非遗报道",
+      "url": "https://zx.zxy.hunanzx.gov.cn/szxapp/1/192/content_1124016.html",
+      "scope": "踩歌堂耶罗纹、蜘蛛纹、太阳纹、八角花纹"
+    },
+    {
+      "id": "S004",
+      "title": "中国非物质文化遗产基因数据库：侗锦纹样检索",
+      "author": "中国非物质文化遗产基因数据库",
+      "year": "无明确年份",
+      "type": "高校／研究数据库",
+      "url": "https://db.traditionowlab.cn/search/?search=%E4%BE%97%E9%94%A6%E7%BA%B9%E6%A0%B7",
+      "scope": "踩歌堂、蜘蛛、鱼、太阳、凤鸟等纹样的分类与语义参考"
+    },
+    {
+      "id": "S005",
+      "title": "侗族刺绣图案的现代设计转化研究：元素提取与应用实践",
+      "author": "戴宇婷（广西科技大学）",
+      "year": "2025",
+      "type": "学术文章",
+      "url": "https://www.sjzyhwh.cn/journal/jydk/2025/12/25.pdf",
+      "scope": "龙纹、鱼纹、蜘蛛纹、鸟纹及纹样现代设计转化"
+    },
+    {
+      "id": "S006",
+      "title": "“母性”文化视角下的侗族背扇纹饰艺术探析",
+      "author": "高山、张国云",
+      "year": "2021",
+      "type": "学术文章",
+      "url": "https://www.fx361.com/page/2021/0628/12391689.shtml",
+      "scope": "榕树月亮纹、太阳纹、龙纹、鸟纹在儿童背扇中的文化语境"
+    },
+    {
+      "id": "S007",
+      "title": "《建行财富》格调栏目：侗绣专题",
+      "author": "《建行财富》编辑部／中国建设银行",
+      "year": "2024",
+      "type": "文化专题资料",
+      "url": "https://www1.ccb.com/chn/attachDir/2024/06/2024062816011950687.pdf",
+      "scope": "太阳、龙蛇、凤鸟、蜘蛛、蝴蝶等纹样的文化意涵参考"
+    }
+  ]
+}

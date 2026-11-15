@@ -1,0 +1,37 @@
+第三方模型与工具来源
+
+PromptTCP
+https://doi.org/10.1016/j.visinf.2026.100328
+项目借鉴其知识驱动概念编排和人机协同思路。
+
+Stable Diffusion 1.5
+https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
+
+Canny ControlNet
+https://huggingface.co/lllyasviel/control_v11p_sd15_canny
+项目记录的修订为 115a470d547982438f70198e353a921996e2e819。
+
+Qwen2-1.5B-Instruct
+https://huggingface.co/Qwen/Qwen2-1.5B-Instruct
+项目记录的修订为 ba1cf1846d7df0a0591d6c00649f57e798519da8。
+
+Qwen2-VL-2B-Instruct
+https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct
+项目记录的修订为 895c3a49bc3fa70a340399125c650a463535e71c。
+
+SAM3
+https://github.com/facebookresearch/sam3
+https://huggingface.co/facebook/sam3
+接收者通过官方渠道获取源码、许可证与获准使用的权重。
+
+侗绣 LoRA
+项目使用已有训练权重 dongzu_embroidery_v2.safetensors。权重分发另行安排。
+
+前端依赖
+React、TypeScript、Vite、Three.js、Motion、Zod及字体包的版本由 app/website/package-lock.json 记录。安装依赖时应保留软件包附带的许可证。
+
+运行环境
+Python 环境的版本记录位于同目录的 generation-packages.txt 和 segmentation-packages.txt。TouchDesigner 软件及工程文件单独配置。
+
+侗绣资料
+规范标注数据包含 80 件母纹、15 个纹样元及 7 条来源记录。图像和文献的权利归属以原始来源为准。

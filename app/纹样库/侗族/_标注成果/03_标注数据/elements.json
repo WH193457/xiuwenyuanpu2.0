@@ -1,0 +1,227 @@
+[
+  {
+    "id": "DXE001",
+    "pattern_id": "DX001",
+    "image": "02_纹样元/DXE001.png",
+    "name": "中心双翼主体",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      250,
+      250,
+      780,
+      780
+    ]
+  },
+  {
+    "id": "DXE002",
+    "pattern_id": "DX002",
+    "image": "02_纹样元/DXE002.png",
+    "name": "中心动物花形主体",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      250,
+      320,
+      760,
+      720
+    ]
+  },
+  {
+    "id": "DXE003",
+    "pattern_id": "DX003",
+    "image": "02_纹样元/DXE003.png",
+    "name": "中心圆形复合主体",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      250,
+      220,
+      780,
+      780
+    ]
+  },
+  {
+    "id": "DXE004",
+    "pattern_id": "DX004",
+    "image": "02_纹样元/DXE004.png",
+    "name": "中心花蝶形主体",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      250,
+      230,
+      780,
+      760
+    ]
+  },
+  {
+    "id": "DXE005",
+    "pattern_id": "DX005",
+    "image": "02_纹样元/DXE005.png",
+    "name": "凤鸟花卉主体",
+    "type": "主体元",
+    "position": "中央主体区",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      170,
+      160,
+      860,
+      860
+    ]
+  },
+  {
+    "id": "DXE006",
+    "pattern_id": "DX009",
+    "image": "02_纹样元/DXE006.png",
+    "name": "菱形八角花重复参考区",
+    "type": "重复元",
+    "position": "中央菱格区",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      300,
+      300,
+      720,
+      720
+    ]
+  },
+  {
+    "id": "DXE007",
+    "pattern_id": "DX015",
+    "image": "02_纹样元/DXE007.png",
+    "name": "彩色菱格重复参考区",
+    "type": "重复元",
+    "position": "中央菱格区",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      300,
+      300,
+      720,
+      720
+    ]
+  },
+  {
+    "id": "DXE008",
+    "pattern_id": "DX017",
+    "image": "02_纹样元/DXE008.png",
+    "name": "踩歌堂人形重复单元",
+    "type": "重复元",
+    "position": "上部中央人物",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      310,
+      65,
+      710,
+      640
+    ]
+  },
+  {
+    "id": "DXE009",
+    "pattern_id": "DX018",
+    "image": "02_纹样元/DXE009.png",
+    "name": "踩歌堂人形重复单元",
+    "type": "重复元",
+    "position": "中央人物",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      300,
+      250,
+      720,
+      800
+    ]
+  },
+  {
+    "id": "DXE010",
+    "pattern_id": "DX019",
+    "image": "02_纹样元/DXE010.png",
+    "name": "踩歌堂小型人形单元",
+    "type": "重复元",
+    "position": "中排行列",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      350,
+      360,
+      610,
+      650
+    ]
+  },
+  {
+    "id": "DXE011",
+    "pattern_id": "DX022",
+    "image": "02_纹样元/DXE011.png",
+    "name": "对鸟菱格重复参考区",
+    "type": "重复元",
+    "position": "中央菱格区",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      300,
+      230,
+      720,
+      650
+    ]
+  },
+  {
+    "id": "DXE012",
+    "pattern_id": "DX029",
+    "image": "02_纹样元/DXE012.png",
+    "name": "蝴蝶八边形重复参考区",
+    "type": "重复元",
+    "position": "中央重复区",
+    "use": "重复排列、生成API参考",
+    "crop_box": [
+      250,
+      430,
+      830,
+      1100
+    ]
+  },
+  {
+    "id": "DXE013",
+    "pattern_id": "DX060",
+    "image": "02_纹样元/DXE013.png",
+    "name": "太阳榕树中心太阳元",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      260,
+      250,
+      770,
+      760
+    ]
+  },
+  {
+    "id": "DXE014",
+    "pattern_id": "DX061",
+    "image": "02_纹样元/DXE014.png",
+    "name": "太阳榕树中心太阳元",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      250,
+      250,
+      780,
+      780
+    ]
+  },
+  {
+    "id": "DXE015",
+    "pattern_id": "DX070",
+    "image": "02_纹样元/DXE015.png",
+    "name": "榕树月亮中心月亮花元",
+    "type": "主体元",
+    "position": "中央",
+    "use": "独立参考、生成API参考",
+    "crop_box": [
+      300,
+      300,
+      725,
+      725
+    ]
+  }
+]

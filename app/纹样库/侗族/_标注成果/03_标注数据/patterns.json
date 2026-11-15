@@ -1,0 +1,2844 @@
+[
+  {
+    "id": "DX001",
+    "image": "01_编号图像/DX001.png",
+    "original_file": "22_.png",
+    "name": "双翼式花鸟复合纹（暂定）",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "双翼形",
+      "鸟形"
+    ],
+    "secondary_elements": [
+      "圆形边框",
+      "圆点"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "深蓝",
+      "红",
+      "米白",
+      "黑"
+    ],
+    "visual_description": "深蓝双翼状主体位于画面中央，外侧由红色圆弧和点状装饰围合，整体呈横向展开。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE001"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "双翼形",
+      "中心构图",
+      "左右对称",
+      "红蓝配色"
+    ]
+  },
+  {
+    "id": "DX002",
+    "image": "01_编号图像/DX002.png",
+    "original_file": "23_.png",
+    "name": "六瓣框式动物花卉复合纹（暂定）",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "动物形",
+      "花形"
+    ],
+    "secondary_elements": [
+      "六瓣边框",
+      "曲线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "红",
+      "粉",
+      "米白",
+      "黑"
+    ],
+    "visual_description": "红色六瓣外框包围中央动物花卉状图形，周围分布弯曲线条与点状细节。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE002"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "六瓣框",
+      "动物花卉",
+      "中心纹样",
+      "红粉配色"
+    ]
+  },
+  {
+    "id": "DX003",
+    "image": "01_编号图像/DX003.png",
+    "original_file": "36_.png",
+    "name": "同心圆层叠中心复合纹（暂定）",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心花形",
+      "抽象人物形"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈几何"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "黑",
+      "白",
+      "红",
+      "蓝"
+    ],
+    "visual_description": "多层同心圆组织画面，中央为高度概括的花形或人物形，外圈由黑白重复几何带环绕。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE003"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "同心圆",
+      "中心花形",
+      "层叠构图",
+      "黑白红蓝"
+    ]
+  },
+  {
+    "id": "DX004",
+    "image": "01_编号图像/DX004.png",
+    "original_file": "83_.png",
+    "name": "八分区花卉复合圆纹（暂定）",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心花形",
+      "动物形"
+    ],
+    "secondary_elements": [
+      "八分区",
+      "圆环"
+    ],
+    "composition": "分区式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "红",
+      "蓝",
+      "黄",
+      "绿",
+      "黑"
+    ],
+    "visual_description": "圆形纹样由中央花形主体和八个彩色扇形分区组成，外缘以深色轮廓收束。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE004"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "八分区",
+      "圆形纹样",
+      "中心花形",
+      "多彩"
+    ]
+  },
+  {
+    "id": "DX005",
+    "image": "01_编号图像/DX005.png",
+    "original_file": "84_.png",
+    "name": "八瓣框式凤鸟花卉纹（暂定）",
+    "category": "动物与神兽",
+    "main_elements": [
+      "凤鸟",
+      "花卉"
+    ],
+    "secondary_elements": [
+      "八瓣边框",
+      "枝叶"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "深蓝",
+      "红",
+      "黄",
+      "绿",
+      "白"
+    ],
+    "visual_description": "深蓝八瓣外框内布置一只凤鸟和多组花叶，主体轮廓清晰，色彩呈块面分布。",
+    "meaning": "[资料支持／谨慎表述] 鸟或凤鸟是侗族织绣中常见的自然与灵鸟形象，本图以鸟形和花形表达生命活力与装饰美感。",
+    "source_ids": [
+      "S004",
+      "S007"
+    ],
+    "element_ids": [
+      "DXE005"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "凤鸟",
+      "花卉",
+      "八瓣框",
+      "深蓝底"
+    ]
+  },
+  {
+    "id": "DX006",
+    "image": "01_编号图像/DX006.png",
+    "original_file": "侗族八角花纹 (2).png",
+    "name": "八角花纹·黑白菱心式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "三角形"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "菱形轮廓中嵌套白色八角星花，中心保留深色小菱形，边角由黑色三角块填充。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "菱形",
+      "黑白",
+      "多轴对称"
+    ]
+  },
+  {
+    "id": "DX007",
+    "image": "01_编号图像/DX007.png",
+    "original_file": "侗族八角花纹 (3).png",
+    "name": "八角花纹·彩色满铺式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "方格"
+    ],
+    "secondary_elements": [
+      "菱形边带",
+      "小花"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "红",
+      "绿",
+      "蓝",
+      "白",
+      "黑"
+    ],
+    "visual_description": "多组彩色八角花与方格沿横纵方向连续排列，外围叠加菱形边带，形成密集织锦效果。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "满铺纹样",
+      "彩色几何",
+      "连续排列"
+    ]
+  },
+  {
+    "id": "DX008",
+    "image": "01_编号图像/DX008.png",
+    "original_file": "侗族八角花纹.png",
+    "name": "八角花纹·粉白菱格式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "三角形"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "粉",
+      "白"
+    ],
+    "visual_description": "黑色菱形框内形成粉白相间的八角星花，中央为粉色小菱形，结构紧凑。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "粉白",
+      "菱形结构",
+      "对称"
+    ]
+  },
+  {
+    "id": "DX009",
+    "image": "01_编号图像/DX009.png",
+    "original_file": "侗族八角花纹1.png",
+    "name": "八角花纹·斜向连续式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "斜向边带"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "红",
+      "黑",
+      "白",
+      "粉"
+    ],
+    "visual_description": "八角花单元沿斜向菱格连续铺排，红黑白色块交替，形成强烈方向感。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE006"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "斜向连续",
+      "红黑白",
+      "满铺"
+    ]
+  },
+  {
+    "id": "DX010",
+    "image": "01_编号图像/DX010.png",
+    "original_file": "侗族八角花纹2.png",
+    "name": "八角花纹·粉心单菱式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "黑色三角"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "粉"
+    ],
+    "visual_description": "单个菱形单元内由黑白三角组成八角花，中央为粉色菱心，外部留白。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "单元纹样",
+      "粉色中心",
+      "菱形"
+    ]
+  },
+  {
+    "id": "DX011",
+    "image": "01_编号图像/DX011.png",
+    "original_file": "侗族八角花纹3.png",
+    "name": "八角花纹·线框四菱式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "四角小菱形"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "粉",
+      "米黄"
+    ],
+    "visual_description": "线性菱形框中设置粉色中心，四周配置四个黑色小菱形，八向结构由细线连接。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "线框",
+      "四菱",
+      "简洁几何"
+    ]
+  },
+  {
+    "id": "DX012",
+    "image": "01_编号图像/DX012.png",
+    "original_file": "侗族八角花纹4.png",
+    "name": "八角花纹·浅蓝放射式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花"
+    ],
+    "secondary_elements": [
+      "箭形花瓣"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "浅蓝",
+      "白",
+      "黑"
+    ],
+    "visual_description": "八个浅蓝箭形花瓣由中心向外放射，轮廓简洁，留白面积较大。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "浅蓝",
+      "放射构图",
+      "简约"
+    ]
+  },
+  {
+    "id": "DX013",
+    "image": "01_编号图像/DX013.png",
+    "original_file": "侗族八角花纹5.png",
+    "name": "八角花纹·蓝白星式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "八角星"
+    ],
+    "secondary_elements": [
+      "中心菱形"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "蓝",
+      "白",
+      "黑"
+    ],
+    "visual_description": "蓝白八角星围绕中央蓝色菱形展开，尖角明确，呈均匀放射结构。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角星",
+      "蓝白",
+      "放射",
+      "中心菱形"
+    ]
+  },
+  {
+    "id": "DX014",
+    "image": "01_编号图像/DX014.png",
+    "original_file": "侗族八角花纹6.png",
+    "name": "八角花纹·黑白嵌套式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "三角块"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "黑白菱形和三角块层层嵌套，中央形成白色八角花，整体对比强烈。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "黑白",
+      "嵌套几何",
+      "高对比"
+    ]
+  },
+  {
+    "id": "DX015",
+    "image": "01_编号图像/DX015.png",
+    "original_file": "侗族八角花问.png",
+    "name": "八角花纹·彩色菱格满铺式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "八角花",
+      "菱格"
+    ],
+    "secondary_elements": [
+      "彩色小方块"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "红",
+      "蓝",
+      "绿",
+      "黄",
+      "黑"
+    ],
+    "visual_description": "彩色八角花和菱格单元密集连续排列，单元之间由深色线条连接，构成完整满铺面。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [
+      "DXE007"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "八角花",
+      "彩色菱格",
+      "满铺",
+      "织锦效果"
+    ]
+  },
+  {
+    "id": "DX016",
+    "image": "01_编号图像/DX016.png",
+    "original_file": "侗族百花纹.png",
+    "name": "百花纹·黑白菱格满铺式",
+    "category": "植物花卉",
+    "main_elements": [
+      "多瓣花",
+      "菱格"
+    ],
+    "secondary_elements": [
+      "几何边带"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "黑白小花与菱格交错铺排，多个方向的边带共同形成密集、连续的表面结构。",
+    "meaning": "[中性设计意向] 以花形和色彩形成生命、繁盛与装饰美感；具体侗族寓意暂不作断言。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "百花纹",
+      "黑白",
+      "菱格满铺",
+      "连续纹样"
+    ]
+  },
+  {
+    "id": "DX017",
+    "image": "01_编号图像/DX017.png",
+    "original_file": "侗族踩歌堂耶罗纹 (2).png",
+    "name": "踩歌堂耶罗纹·三人连臂式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人形",
+      "连臂动作"
+    ],
+    "secondary_elements": [
+      "锯齿边饰"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "黑",
+      "米白"
+    ],
+    "visual_description": "三个人形横向连臂排列，下方配置连续锯齿边带，人物姿态和间距基本一致。",
+    "meaning": "[资料支持] 表现侗族群众围圈或携手踩歌堂、行歌坐月等集体活动，可用于表达群体歌舞、团结与生活场景。",
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "element_ids": [
+      "DXE008"
+    ],
+    "generation_keywords": [
+      "侗族",
+      "踩歌堂",
+      "耶罗纹",
+      "三人连臂",
+      "黑色剪影"
+    ]
+  },
+  {
+    "id": "DX018",
+    "image": "01_编号图像/DX018.png",
+    "original_file": "侗族踩歌堂耶罗纹.png",
+    "name": "踩歌堂耶罗纹·几何三人式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人形",
+      "连臂动作"
+    ],
+    "secondary_elements": [
+      "几何躯干"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "黑",
+      "浅粉"
+    ],
+    "visual_description": "三个几何化人形在浅粉底上横向连臂，头部、躯干和四肢均以简化块面表达。",
+    "meaning": "[资料支持] 表现侗族群众围圈或携手踩歌堂、行歌坐月等集体活动，可用于表达群体歌舞、团结与生活场景。",
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "element_ids": [
+      "DXE009"
+    ],
+    "generation_keywords": [
+      "侗族",
+      "踩歌堂",
+      "几何人形",
+      "连臂",
+      "带状构图"
+    ]
+  },
+  {
+    "id": "DX019",
+    "image": "01_编号图像/DX019.png",
+    "original_file": "侗族踩歌堂耶罗纹2.png",
+    "name": "踩歌堂耶罗纹·多行重复式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人形",
+      "歌舞队列"
+    ],
+    "secondary_elements": [
+      "多行排列"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "紫",
+      "粉",
+      "白"
+    ],
+    "visual_description": "紫色小型人形以多行方式横向重复，各行人形形态略有差异，形成节奏化阵列。",
+    "meaning": "[资料支持] 表现侗族群众围圈或携手踩歌堂、行歌坐月等集体活动，可用于表达群体歌舞、团结与生活场景。",
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "element_ids": [
+      "DXE010"
+    ],
+    "generation_keywords": [
+      "侗族",
+      "踩歌堂",
+      "多行人形",
+      "重复阵列",
+      "紫粉配色"
+    ]
+  },
+  {
+    "id": "DX020",
+    "image": "01_编号图像/DX020.png",
+    "original_file": "侗族踩歌堂耶罗纹3.png",
+    "name": "踩歌堂耶罗纹·单人彩饰式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人形"
+    ],
+    "secondary_elements": [
+      "彩色折线"
+    ],
+    "composition": "单体式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "黑",
+      "红",
+      "黄",
+      "蓝",
+      "浅粉"
+    ],
+    "visual_description": "单个几何化人形居中，躯干和四肢为黑色块面，周围配置彩色折线装饰。",
+    "meaning": "[资料支持] 表现侗族群众围圈或携手踩歌堂、行歌坐月等集体活动，可用于表达群体歌舞、团结与生活场景。",
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗族",
+      "踩歌堂",
+      "单个人形",
+      "彩色折线",
+      "左右对称"
+    ]
+  },
+  {
+    "id": "DX021",
+    "image": "01_编号图像/DX021.png",
+    "original_file": "侗族踩歌堂耶罗纹4.png",
+    "name": "踩歌堂耶罗纹·菱形双人式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "双人形",
+      "连臂动作"
+    ],
+    "secondary_elements": [
+      "回纹边框",
+      "菱形"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "黑",
+      "白",
+      "红"
+    ],
+    "visual_description": "菱形中心布置相向或连臂的两个人形，外围由层叠回纹和几何边框包围。",
+    "meaning": "[资料支持] 表现侗族群众围圈或携手踩歌堂、行歌坐月等集体活动，可用于表达群体歌舞、团结与生活场景。",
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗族",
+      "踩歌堂",
+      "双人形",
+      "菱形构图",
+      "回纹边框"
+    ]
+  },
+  {
+    "id": "DX022",
+    "image": "01_编号图像/DX022.png",
+    "original_file": "侗族对鸟纹.png",
+    "name": "对鸟纹·黑白菱格连续式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "对鸟",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "几何边带"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "两两相对的鸟形被概括进菱形单元，并与多条黑白几何边带连续交织。",
+    "meaning": "[资料支持／谨慎表述] 鸟或凤鸟是侗族织绣中常见的自然与灵鸟形象，本图以鸟形和花形表达生命活力与装饰美感。",
+    "source_ids": [
+      "S004",
+      "S007"
+    ],
+    "element_ids": [
+      "DXE011"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "对鸟纹",
+      "黑白",
+      "菱格连续",
+      "镜像重复"
+    ]
+  },
+  {
+    "id": "DX023",
+    "image": "01_编号图像/DX023.png",
+    "original_file": "侗族凤巢花.png",
+    "name": "凤巢花纹·粉色团花式",
+    "category": "植物花卉",
+    "main_elements": [
+      "团花",
+      "巢形"
+    ],
+    "secondary_elements": [
+      "花瓣",
+      "圆点"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "粉",
+      "红",
+      "白"
+    ],
+    "visual_description": "粉红色多瓣团花围绕中央巢状圆心展开，花瓣层次清楚，外缘呈圆形。",
+    "meaning": "[中性设计意向] 以花形和色彩形成生命、繁盛与装饰美感；具体侗族寓意暂不作断言。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "凤巢花",
+      "粉色团花",
+      "中心构图",
+      "旋转对称"
+    ]
+  },
+  {
+    "id": "DX024",
+    "image": "01_编号图像/DX024.png",
+    "original_file": "侗族凤凰花.png",
+    "name": "凤凰花纹·单凤花带式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "凤凰",
+      "花卉"
+    ],
+    "secondary_elements": [
+      "枝叶",
+      "横向边带"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "非严格对称",
+    "colors": [
+      "红",
+      "粉",
+      "白",
+      "黑"
+    ],
+    "visual_description": "一只凤凰沿横向舒展，尾羽转化为连续卷曲花叶，整体形成狭长装饰带。",
+    "meaning": "[资料支持／谨慎表述] 鸟或凤鸟是侗族织绣中常见的自然与灵鸟形象，本图以鸟形和花形表达生命活力与装饰美感。",
+    "source_ids": [
+      "S004",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "凤凰花",
+      "单凤",
+      "花卉边带",
+      "红粉配色"
+    ]
+  },
+  {
+    "id": "DX025",
+    "image": "01_编号图像/DX025.png",
+    "original_file": "侗族凤鸟纹 (2).png",
+    "name": "凤鸟纹·黑白菱格式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "凤鸟",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "几何折线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "黑白几何折线构成高度概括的凤鸟形，主体置于菱形轮廓内，方向轴清晰。",
+    "meaning": "[资料支持／谨慎表述] 鸟或凤鸟是侗族织绣中常见的自然与灵鸟形象，本图以鸟形和花形表达生命活力与装饰美感。",
+    "source_ids": [
+      "S004",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "凤鸟纹",
+      "黑白",
+      "几何化",
+      "菱形"
+    ]
+  },
+  {
+    "id": "DX026",
+    "image": "01_编号图像/DX026.png",
+    "original_file": "侗族凤鸟纹.png",
+    "name": "凤鸟纹·紫白几何单鸟式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "凤鸟"
+    ],
+    "secondary_elements": [
+      "几何翼部",
+      "尾部折线"
+    ],
+    "composition": "单体式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "紫",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "紫白折线构成正面展开的几何凤鸟，头部居中，双翼和尾部沿中轴对称展开。",
+    "meaning": "[资料支持／谨慎表述] 鸟或凤鸟是侗族织绣中常见的自然与灵鸟形象，本图以鸟形和花形表达生命活力与装饰美感。",
+    "source_ids": [
+      "S004",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "凤鸟",
+      "紫白",
+      "几何单鸟",
+      "左右对称"
+    ]
+  },
+  {
+    "id": "DX027",
+    "image": "01_编号图像/DX027.png",
+    "original_file": "侗族蝴蝶花.png",
+    "name": "蝴蝶花纹·红蓝双翼式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蝴蝶",
+      "花形"
+    ],
+    "secondary_elements": [
+      "触角",
+      "圆点"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "红",
+      "蓝",
+      "白",
+      "黑"
+    ],
+    "visual_description": "蝴蝶双翼由红蓝花瓣状块面组成，中央躯干竖直，左右结构均衡。",
+    "meaning": "[资料支持／谨慎表述] 蝴蝶是侗族织绣中的常见自然生命形象；本图更适合作为生命、轻盈和对称美感的设计意向使用。",
+    "source_ids": [
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "蝴蝶花",
+      "红蓝",
+      "左右对称",
+      "中心构图"
+    ]
+  },
+  {
+    "id": "DX028",
+    "image": "01_编号图像/DX028.png",
+    "original_file": "侗族蝴蝶纹.png",
+    "name": "蝴蝶纹·多彩几何满铺式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蝴蝶抽象形",
+      "菱格"
+    ],
+    "secondary_elements": [
+      "三角形",
+      "十字形",
+      "小花"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "红",
+      "蓝",
+      "绿",
+      "黑",
+      "白"
+    ],
+    "visual_description": "蝶形和花形被概括为菱格、三角和十字单元，并以多层边带组织成完整彩色锦面。",
+    "meaning": "[资料支持／谨慎表述] 蝴蝶是侗族织绣中的常见自然生命形象；本图更适合作为生命、轻盈和对称美感的设计意向使用。",
+    "source_ids": [
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "蝴蝶纹",
+      "多彩几何",
+      "满铺",
+      "菱格"
+    ]
+  },
+  {
+    "id": "DX029",
+    "image": "01_编号图像/DX029.png",
+    "original_file": "侗族蝴蝶纹2.png",
+    "name": "蝴蝶纹·八边形满铺式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蝴蝶",
+      "八边形团花"
+    ],
+    "secondary_elements": [
+      "交叉带",
+      "小花"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "粉",
+      "黄",
+      "黑",
+      "白"
+    ],
+    "visual_description": "大型八边形蝴蝶团花通过交叉带连接并上下连续，间隙填充小型花叶和几何单元。",
+    "meaning": "[资料支持／谨慎表述] 蝴蝶是侗族织绣中的常见自然生命形象；本图更适合作为生命、轻盈和对称美感的设计意向使用。",
+    "source_ids": [
+      "S007"
+    ],
+    "element_ids": [
+      "DXE012"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "蝴蝶纹",
+      "八边形团花",
+      "满铺",
+      "粉黄黑"
+    ]
+  },
+  {
+    "id": "DX030",
+    "image": "01_编号图像/DX030.png",
+    "original_file": "侗族混沌花纹 (2).png",
+    "name": "混沌花纹·红色八边中心式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "抽象花形",
+      "中心面形"
+    ],
+    "secondary_elements": [
+      "八边形",
+      "卷曲线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "红",
+      "橙",
+      "白",
+      "黑"
+    ],
+    "visual_description": "红色八边形框内聚合花瓣、卷曲线和面形细节，中心与外围形成多层收束。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "八边形",
+      "红色",
+      "复杂中心"
+    ]
+  },
+  {
+    "id": "DX031",
+    "image": "01_编号图像/DX031.png",
+    "original_file": "侗族混沌花纹 (3).png",
+    "name": "混沌花纹·橙褐旋卷式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "旋卷花形"
+    ],
+    "secondary_elements": [
+      "圆环",
+      "涡旋线"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "橙",
+      "褐",
+      "黑",
+      "白"
+    ],
+    "visual_description": "橙褐色卷曲花瓣围绕圆心旋转展开，多层圆环强化向心和旋转感。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "旋卷",
+      "橙褐色",
+      "圆形"
+    ]
+  },
+  {
+    "id": "DX032",
+    "image": "01_编号图像/DX032.png",
+    "original_file": "侗族混沌花纹 (4).png",
+    "name": "混沌花纹·多彩环形复合式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心动物花形",
+      "环形花瓣"
+    ],
+    "secondary_elements": [
+      "外圈几何",
+      "圆点"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "红",
+      "蓝",
+      "黄",
+      "绿",
+      "黑"
+    ],
+    "visual_description": "多彩中心主体被环状花瓣和几何外圈包围，细节密集，呈多层圆形复合结构。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "多彩",
+      "同心圆",
+      "复合中心"
+    ]
+  },
+  {
+    "id": "DX033",
+    "image": "01_编号图像/DX033.png",
+    "original_file": "侗族混沌花纹 (5).png",
+    "name": "混沌花纹·红白多瓣式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "多瓣花形"
+    ],
+    "secondary_elements": [
+      "卷曲边缘",
+      "中心圆"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "红",
+      "白",
+      "粉",
+      "黑"
+    ],
+    "visual_description": "红白多瓣形围绕小型中心圆层叠展开，花瓣边缘带卷曲变化，轮廓近圆形。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "红白",
+      "多瓣",
+      "旋转对称"
+    ]
+  },
+  {
+    "id": "DX034",
+    "image": "01_编号图像/DX034.png",
+    "original_file": "侗族混沌花纹 (6).png",
+    "name": "混沌花纹·紫绿团花式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "团花",
+      "抽象动物形"
+    ],
+    "secondary_elements": [
+      "圆形边框"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "紫",
+      "绿",
+      "粉",
+      "黑"
+    ],
+    "visual_description": "紫绿花瓣和抽象动物状线条在圆形范围内聚合，中央与外缘均有深色轮廓。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "紫绿",
+      "团花",
+      "圆形"
+    ]
+  },
+  {
+    "id": "DX035",
+    "image": "01_编号图像/DX035.png",
+    "original_file": "侗族混沌花纹.png",
+    "name": "混沌花纹·绿紫多层圆盘式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心花形",
+      "多层团花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈放射线"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "绿",
+      "紫",
+      "粉",
+      "黑",
+      "白"
+    ],
+    "visual_description": "绿紫中心花被多层花瓣、圆点和放射状外圈包围，形成细节密集的圆盘结构。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "绿紫",
+      "多层圆盘",
+      "同心圆"
+    ]
+  },
+  {
+    "id": "DX036",
+    "image": "01_编号图像/DX036.png",
+    "original_file": "侗族混沌花纹3.png",
+    "name": "混沌花纹·六角框中心式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心面形",
+      "花卉"
+    ],
+    "secondary_elements": [
+      "六角框",
+      "卷曲线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "白",
+      "紫",
+      "绿",
+      "红",
+      "黑"
+    ],
+    "visual_description": "六角形白色底面中央放置面形或花心，外围以卷曲花叶和六个端点圆环围合。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "六角框",
+      "中心花形",
+      "白底"
+    ]
+  },
+  {
+    "id": "DX037",
+    "image": "01_编号图像/DX037.png",
+    "original_file": "侗族混沌花纹4.png",
+    "name": "混沌花纹·橙绿多层圆盘式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心花形",
+      "多层团花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈放射线"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "橙",
+      "绿",
+      "红",
+      "黑",
+      "白"
+    ],
+    "visual_description": "橙绿中心主体被多层花瓣、圆点和放射状外圈环绕，细节密集，整体呈圆盘结构。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "橙绿",
+      "多层圆盘",
+      "同心圆"
+    ]
+  },
+  {
+    "id": "DX038",
+    "image": "01_编号图像/DX038.png",
+    "original_file": "侗族混沌花纹5.png",
+    "name": "混沌花纹·绿紫单体式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "抽象面形",
+      "花形"
+    ],
+    "secondary_elements": [
+      "卷曲花瓣"
+    ],
+    "composition": "单体式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "绿",
+      "紫",
+      "粉",
+      "黑"
+    ],
+    "visual_description": "绿紫抽象面形与花瓣融合为一个完整单体，左右轮廓大体对应，外围留白。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "绿紫",
+      "单体",
+      "抽象面形"
+    ]
+  },
+  {
+    "id": "DX039",
+    "image": "01_编号图像/DX039.png",
+    "original_file": "侗族混沌花纹6.png",
+    "name": "混沌花纹·三角花片式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "花形"
+    ],
+    "secondary_elements": [
+      "三角边框",
+      "卷曲线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "非严格对称",
+    "colors": [
+      "红",
+      "绿",
+      "白",
+      "黑"
+    ],
+    "visual_description": "三角形底面中放置红绿花形和卷曲线条，图形受三角外轮廓限制。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌花纹",
+      "三角构图",
+      "花形",
+      "红绿"
+    ]
+  },
+  {
+    "id": "DX040",
+    "image": "01_编号图像/DX040.png",
+    "original_file": "侗族混沌纹.png",
+    "name": "混沌纹·深蓝多层圆盘式",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "中心面形",
+      "多层团花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈放射线"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "深蓝",
+      "蓝绿",
+      "紫",
+      "黑"
+    ],
+    "visual_description": "深蓝中心面形被多层蓝绿色花瓣和放射状外圈包围，形成低明度圆盘纹样。",
+    "meaning": "[中性设计意向] 强调多元素聚合、层次和中心感；目前没有足以对应本图的侗族专属寓意资料。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌纹",
+      "深蓝",
+      "多层圆盘",
+      "同心圆"
+    ]
+  },
+  {
+    "id": "DX041",
+    "image": "01_编号图像/DX041.png",
+    "original_file": "侗族混沌蜘蛛纹 (2).png",
+    "name": "混沌蜘蛛纹·深色团合式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蜘蛛",
+      "抽象花形"
+    ],
+    "secondary_elements": [
+      "卷曲足部"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "深蓝",
+      "紫",
+      "黑"
+    ],
+    "visual_description": "深蓝紫色蜘蛛状主体与花形融合，足部以卷曲粗线向四周展开，形成团合轮廓。",
+    "meaning": "[资料支持] 蜘蛛纹在侗族语境中与萨／萨玛信仰及护佑观念有关，可用于表达守护、祝福和生命联系。",
+    "source_ids": [
+      "S002",
+      "S003",
+      "S004"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "混沌蜘蛛纹",
+      "深色",
+      "团合",
+      "守护意向"
+    ]
+  },
+  {
+    "id": "DX042",
+    "image": "01_编号图像/DX042.png",
+    "original_file": "侗族几何纹.png",
+    "name": "几何纹·黑白菱形线框式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "菱形",
+      "线框"
+    ],
+    "secondary_elements": [
+      "内嵌小菱形",
+      "短线边框"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "细黑线构成横向菱形框，内部嵌套小菱形，外围以短线式边框围合。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "几何纹",
+      "黑白",
+      "菱形线框",
+      "多轴对称"
+    ]
+  },
+  {
+    "id": "DX043",
+    "image": "01_编号图像/DX043.png",
+    "original_file": "侗族几何纹2.png",
+    "name": "几何纹·彩色方块拼接式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "方形",
+      "矩形"
+    ],
+    "secondary_elements": [
+      "折线",
+      "小菱形"
+    ],
+    "composition": "分区式",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "红",
+      "蓝",
+      "黄",
+      "绿",
+      "黑"
+    ],
+    "visual_description": "彩色方形和矩形块按网格拼接，局部嵌入折线与小菱形，色块边界清晰。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "几何纹",
+      "彩色方块",
+      "网格",
+      "拼接"
+    ]
+  },
+  {
+    "id": "DX044",
+    "image": "01_编号图像/DX044.png",
+    "original_file": "侗族几何纹3.png",
+    "name": "几何纹·黑白横向边带式",
+    "category": "几何与边饰",
+    "main_elements": [
+      "折线",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "横向边带"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "多条黑白几何带水平叠置，带内包含折线、菱形和小型重复单元。",
+    "meaning": "[中性设计意向] 表达秩序、连续、节奏和边界装饰；不据图形外观附会具体民俗寓意。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "几何边饰",
+      "黑白",
+      "横向带状",
+      "连续"
+    ]
+  },
+  {
+    "id": "DX045",
+    "image": "01_编号图像/DX045.png",
+    "original_file": "侗族龙凤纹 (2).png",
+    "name": "菱形嵌套龙凤几何纹（暂定）",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "菱形",
+      "龙凤抽象形"
+    ],
+    "secondary_elements": [
+      "回折线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "黑白菱形层层嵌套，内部以回折线构成高度抽象的龙凤组合，视觉上以几何结构为主。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙凤纹",
+      "黑白",
+      "菱形嵌套",
+      "几何化"
+    ]
+  },
+  {
+    "id": "DX046",
+    "image": "01_编号图像/DX046.png",
+    "original_file": "侗族龙凤纹.png",
+    "name": "蓝白菱形龙凤复合纹",
+    "category": "复合纹样／待定",
+    "main_elements": [
+      "龙凤抽象形",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "折线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "蓝",
+      "白",
+      "黑"
+    ],
+    "visual_description": "蓝白折线在菱形框内形成鸟形和龙形的复合轮廓，中心轴明确，细节高度几何化。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙凤纹",
+      "蓝白",
+      "菱形",
+      "左右对称"
+    ]
+  },
+  {
+    "id": "DX047",
+    "image": "01_编号图像/DX047.png",
+    "original_file": "侗族龙纹 (2).png",
+    "name": "龙纹·红色花带式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙形",
+      "花卉"
+    ],
+    "secondary_elements": [
+      "横向边带"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "红",
+      "橙",
+      "白",
+      "黑"
+    ],
+    "visual_description": "红色龙形与花枝沿橙色横带连续延展，主体被处理为弯曲线条和花叶状块面。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙纹",
+      "红色",
+      "花卉边带",
+      "横向连续"
+    ]
+  },
+  {
+    "id": "DX048",
+    "image": "01_编号图像/DX048.png",
+    "original_file": "侗族龙纹.png",
+    "name": "龙纹·粉底圆形复合式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙",
+      "圆形团纹"
+    ],
+    "secondary_elements": [
+      "花叶",
+      "卷云"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "粉",
+      "红",
+      "蓝",
+      "黑"
+    ],
+    "visual_description": "圆形范围内布置盘曲龙形、花叶和卷云状细节，粉色底面衬托多色主体。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙纹",
+      "圆形团纹",
+      "粉色底",
+      "盘曲"
+    ]
+  },
+  {
+    "id": "DX049",
+    "image": "01_编号图像/DX049.png",
+    "original_file": "侗族龙纹2.png",
+    "name": "龙纹·鱼龙旋合式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙形",
+      "鱼形"
+    ],
+    "secondary_elements": [
+      "圆环",
+      "波浪线"
+    ],
+    "composition": "旋转式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "褐",
+      "黄",
+      "白",
+      "黑"
+    ],
+    "visual_description": "鱼形和龙形沿圆周旋合，躯体弯曲相接，外围以深色圆环收束。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "鱼龙",
+      "旋合构图",
+      "圆形",
+      "褐黄色"
+    ]
+  },
+  {
+    "id": "DX050",
+    "image": "01_编号图像/DX050.png",
+    "original_file": "侗族龙纹3.png",
+    "name": "龙纹·细线横带式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙形"
+    ],
+    "secondary_elements": [
+      "花枝",
+      "细线边饰"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "黑",
+      "红",
+      "白"
+    ],
+    "visual_description": "细线龙形与花枝沿狭长白色横带延展，图案线条轻细，留白较多。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙纹",
+      "细线",
+      "横向边带",
+      "简洁"
+    ]
+  },
+  {
+    "id": "DX051",
+    "image": "01_编号图像/DX051.png",
+    "original_file": "侗族龙纹4.png",
+    "name": "龙纹·金色团龙式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙首",
+      "盘曲躯体"
+    ],
+    "secondary_elements": [
+      "圆形边缘"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "金黄",
+      "褐",
+      "黑",
+      "白"
+    ],
+    "visual_description": "金黄色龙首与盘曲躯体聚合成近圆形单体，深色轮廓突出头部和鳞状细节。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "团龙",
+      "金黄色",
+      "圆形单体",
+      "龙首"
+    ]
+  },
+  {
+    "id": "DX052",
+    "image": "01_编号图像/DX052.png",
+    "original_file": "侗族龙纹5.png",
+    "name": "龙纹·黑底盘曲单龙式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "盘龙"
+    ],
+    "secondary_elements": [
+      "卷曲尾部",
+      "鳞纹"
+    ],
+    "composition": "单体式",
+    "symmetry_repeat": "非严格对称",
+    "colors": [
+      "红",
+      "黄",
+      "蓝",
+      "黑"
+    ],
+    "visual_description": "彩色单龙在黑底上盘曲，头、身和尾连续连接，局部以蓝黄纹理点缀。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "盘龙",
+      "黑色底",
+      "彩色",
+      "单体"
+    ]
+  },
+  {
+    "id": "DX053",
+    "image": "01_编号图像/DX053.png",
+    "original_file": "侗族龙纹6.png",
+    "name": "龙纹·黑底双龙对称式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "双龙"
+    ],
+    "secondary_elements": [
+      "中心连接纹"
+    ],
+    "composition": "左右对称",
+    "symmetry_repeat": "镜像重复",
+    "colors": [
+      "红",
+      "黄",
+      "蓝",
+      "黑"
+    ],
+    "visual_description": "两条彩色龙在黑底上左右相向，躯体和尾部镜像展开，中央由小型纹样连接。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "双龙",
+      "黑色底",
+      "镜像对称",
+      "相向"
+    ]
+  },
+  {
+    "id": "DX054",
+    "image": "01_编号图像/DX054.png",
+    "original_file": "侗族龙纹7.png",
+    "name": "龙纹·黑白回折菱格式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "龙形抽象纹",
+      "菱形"
+    ],
+    "secondary_elements": [
+      "回折线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "黑白回折线在菱形框内层叠，龙形被高度抽象为迷宫式几何路径。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "龙纹",
+      "黑白",
+      "回折线",
+      "菱形"
+    ]
+  },
+  {
+    "id": "DX055",
+    "image": "01_编号图像/DX055.png",
+    "original_file": "侗族马纹.png",
+    "name": "马纹·黑色线描单马式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "马"
+    ],
+    "secondary_elements": [
+      "线性肢体"
+    ],
+    "composition": "单体式",
+    "symmetry_repeat": "非严格对称",
+    "colors": [
+      "黑",
+      "米白"
+    ],
+    "visual_description": "黑色线描马形侧向站立，头、躯干和四肢由粗细近似的线条概括。",
+    "meaning": "[中性设计意向] 以马和人物形态表现出行、劳作或生活叙事；因缺少本图出处，不附加特定神话寓意。",
+    "source_ids": [
+      "S001"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "马纹",
+      "线描",
+      "单马",
+      "米白底"
+    ]
+  },
+  {
+    "id": "DX056",
+    "image": "01_编号图像/DX056.png",
+    "original_file": "侗族螃蟹花.png",
+    "name": "螃蟹花纹·粉色团合式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "螃蟹",
+      "花形"
+    ],
+    "secondary_elements": [
+      "蟹足",
+      "中心圆"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "近似旋转对称",
+    "colors": [
+      "粉",
+      "红",
+      "白",
+      "黑"
+    ],
+    "visual_description": "螃蟹躯体与花形融合，粉红蟹足向四周展开，中央呈圆形团合结构。",
+    "meaning": "[中性设计意向] 突出动物形态的概括和装饰性表达；具体民俗寓意需结合实物出处再判断。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "螃蟹花",
+      "粉色",
+      "团合",
+      "中心构图"
+    ]
+  },
+  {
+    "id": "DX057",
+    "image": "01_编号图像/DX057.png",
+    "original_file": "侗族人纹.png",
+    "name": "人纹·双人横向式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "双人形"
+    ],
+    "secondary_elements": [
+      "彩色折线",
+      "横向边带"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "黑",
+      "粉",
+      "米黄",
+      "白"
+    ],
+    "visual_description": "两个黑色几何人形横向排列，人物之间以折线相接，背景配置粉色和米黄色斜向装饰。",
+    "meaning": "[资料支持／谨慎表述] 人物纹可表现侗族日常劳作、节庆或群体生活；本图缺少具体出处，因此只保留生活叙事意向。",
+    "source_ids": [
+      "S005"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "人纹",
+      "双人",
+      "横向排列",
+      "几何人形"
+    ]
+  },
+  {
+    "id": "DX058",
+    "image": "01_编号图像/DX058.png",
+    "original_file": "侗族人形纹.png",
+    "name": "人形纹·黑白满铺式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人形",
+      "人物队列"
+    ],
+    "secondary_elements": [
+      "菱格",
+      "锯齿边饰"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "黑",
+      "白"
+    ],
+    "visual_description": "多行黑色人形队列与菱格、锯齿和折线边带上下叠置，形成完整黑白锦面。",
+    "meaning": "[资料支持／谨慎表述] 人物纹可表现侗族日常劳作、节庆或群体生活；本图缺少具体出处，因此只保留生活叙事意向。",
+    "source_ids": [
+      "S005"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "人形纹",
+      "黑白满铺",
+      "人物队列",
+      "几何边带"
+    ]
+  },
+  {
+    "id": "DX059",
+    "image": "01_编号图像/DX059.png",
+    "original_file": "侗族太阳花纹.png",
+    "name": "太阳花纹·红黑菱格满铺式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "菱格"
+    ],
+    "secondary_elements": [
+      "小花",
+      "斜向边带"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "红",
+      "黑",
+      "白",
+      "橙"
+    ],
+    "visual_description": "红黑白小型太阳花和菱格沿斜向连续铺排，外缘配置几何边带，形成完整锦面。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "红黑菱格",
+      "满铺",
+      "斜向连续"
+    ]
+  },
+  {
+    "id": "DX060",
+    "image": "01_编号图像/DX060.png",
+    "original_file": "侗族太阳榕树纹 (2).png",
+    "name": "太阳榕树纹·方框多层式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳",
+      "榕树"
+    ],
+    "secondary_elements": [
+      "方形边框",
+      "枝叶"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "红",
+      "绿",
+      "黄",
+      "黑",
+      "白"
+    ],
+    "visual_description": "方形多层边框围住中央太阳花，榕树枝叶向四周延展，边角以对称色块填充。",
+    "meaning": "[资料支持] 太阳与榕树的组合关联光明、生命延续和守护意向；具体解释应结合原实物用途。",
+    "source_ids": [
+      "S002",
+      "S006"
+    ],
+    "element_ids": [
+      "DXE013"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "太阳榕树",
+      "方形构图",
+      "中心太阳",
+      "多彩"
+    ]
+  },
+  {
+    "id": "DX061",
+    "image": "01_编号图像/DX061.png",
+    "original_file": "侗族太阳榕树纹.png",
+    "name": "太阳榕树纹·彩色方锦式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳",
+      "榕树"
+    ],
+    "secondary_elements": [
+      "方格",
+      "枝叶",
+      "边框"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "红",
+      "蓝",
+      "绿",
+      "黄",
+      "黑"
+    ],
+    "visual_description": "中央圆形太阳花被树枝和多层彩色方格环绕，整体形成规则方形锦面。",
+    "meaning": "[资料支持] 太阳与榕树的组合关联光明、生命延续和守护意向；具体解释应结合原实物用途。",
+    "source_ids": [
+      "S002",
+      "S006"
+    ],
+    "element_ids": [
+      "DXE014"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "太阳榕树",
+      "彩色方锦",
+      "中心式",
+      "守护意向"
+    ]
+  },
+  {
+    "id": "DX062",
+    "image": "01_编号图像/DX062.png",
+    "original_file": "侗族铜钱花.png",
+    "name": "铜钱花纹·橙色单体式",
+    "category": "植物花卉",
+    "main_elements": [
+      "铜钱花",
+      "方孔"
+    ],
+    "secondary_elements": [
+      "圆环",
+      "花瓣外缘"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "橙",
+      "米白",
+      "白"
+    ],
+    "visual_description": "橙色多瓣外缘包围圆形内环，中心由四个弧形孔围成近方形结构，整体为单独团花。",
+    "meaning": "[中性设计意向] 以花形和色彩形成生命、繁盛与装饰美感；具体侗族寓意暂不作断言。",
+    "source_ids": [],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "铜钱花",
+      "橙色",
+      "单体团花",
+      "中心方孔"
+    ]
+  },
+  {
+    "id": "DX063",
+    "image": "01_编号图像/DX063.png",
+    "original_file": "侗族小龙纹.png",
+    "name": "小龙纹·褐白几何连续式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "小龙抽象形",
+      "菱格"
+    ],
+    "secondary_elements": [
+      "锯齿线",
+      "折线"
+    ],
+    "composition": "满铺式",
+    "symmetry_repeat": "平移与镜像重复",
+    "colors": [
+      "褐",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "褐白折线、菱格和锯齿单元连续铺排，小龙形被高度抽象进重复几何结构。",
+    "meaning": "[资料支持／谨慎表述] 龙纹与自然力量、风雨愿望和守护观念相关；本图宜保留为传统龙形的装饰化表达。",
+    "source_ids": [
+      "S005",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "小龙纹",
+      "褐白",
+      "几何连续",
+      "满铺"
+    ]
+  },
+  {
+    "id": "DX064",
+    "image": "01_编号图像/DX064.png",
+    "original_file": "侗族鱼纹.png",
+    "name": "鱼纹·黑白菱形中心式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "鱼形抽象纹"
+    ],
+    "secondary_elements": [
+      "菱形",
+      "回折线",
+      "圆形底"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "黑色鱼形或鱼骨状主体位于菱形中心，四周由回折线对称围合，外部保留浅色圆形底。",
+    "meaning": "[资料支持] 鱼纹来自侗族水田、溪河和渔作生活经验，可用于表达生产生活、生命延续和丰足意向。",
+    "source_ids": [
+      "S002",
+      "S004",
+      "S005"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "鱼纹",
+      "黑白",
+      "菱形中心",
+      "几何化"
+    ]
+  },
+  {
+    "id": "DX065",
+    "image": "01_编号图像/DX065.png",
+    "original_file": "侗族月亮花纹.png",
+    "name": "月亮花纹·深色中心圆盘式",
+    "category": "自然天象",
+    "main_elements": [
+      "月亮花",
+      "中心复合花形"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈几何"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "红",
+      "蓝",
+      "绿",
+      "黑",
+      "白"
+    ],
+    "visual_description": "深色中心复合花形被黑白几何环带和细线花瓣逐层包围，整体为多层圆盘。",
+    "meaning": "[资料支持／谨慎表述] 月亮花以圆形、循环与夜空意象形成柔和的守护和生命节律表达；具体寓意需结合出处。",
+    "source_ids": [
+      "S006"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "月亮花",
+      "深色中心",
+      "同心圆",
+      "多层圆盘"
+    ]
+  },
+  {
+    "id": "DX066",
+    "image": "01_编号图像/DX066.png",
+    "original_file": "侗族蜘蛛纹 (2).png",
+    "name": "蜘蛛纹·黑白菱形单体式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蜘蛛抽象形"
+    ],
+    "secondary_elements": [
+      "菱形",
+      "羽状线"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "黑白菱形框内布置由中心向四向伸展的蜘蛛抽象形，肢体以密集羽状线表现。",
+    "meaning": "[资料支持] 蜘蛛纹在侗族语境中与萨／萨玛信仰及护佑观念有关，可用于表达守护、祝福和生命联系。",
+    "source_ids": [
+      "S002",
+      "S003",
+      "S004"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "蜘蛛纹",
+      "黑白",
+      "菱形",
+      "守护意向"
+    ]
+  },
+  {
+    "id": "DX067",
+    "image": "01_编号图像/DX067.png",
+    "original_file": "侗族蜘蛛纹.png",
+    "name": "蜘蛛纹·黑白菱形圆底式",
+    "category": "动物与神兽",
+    "main_elements": [
+      "蜘蛛抽象形"
+    ],
+    "secondary_elements": [
+      "菱形",
+      "羽状线",
+      "圆形底"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "多轴对称",
+    "colors": [
+      "黑",
+      "白",
+      "米黄"
+    ],
+    "visual_description": "蜘蛛抽象形置于黑白菱形框内，四向肢体由细密平行线组成，外部保留浅色圆形底。",
+    "meaning": "[资料支持] 蜘蛛纹在侗族语境中与萨／萨玛信仰及护佑观念有关，可用于表达守护、祝福和生命联系。",
+    "source_ids": [
+      "S002",
+      "S003",
+      "S004"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "蜘蛛纹",
+      "黑白",
+      "菱形圆底",
+      "守护意向"
+    ]
+  },
+  {
+    "id": "DX068",
+    "image": "01_编号图像/DX068.png",
+    "original_file": "侗族竹根花纹.png",
+    "name": "竹根花纹·黑色枝根式",
+    "category": "植物花卉",
+    "main_elements": [
+      "竹根",
+      "枝状几何"
+    ],
+    "secondary_elements": [
+      "折线",
+      "分叉"
+    ],
+    "composition": "中心式",
+    "symmetry_repeat": "左右对称",
+    "colors": [
+      "黑",
+      "米白"
+    ],
+    "visual_description": "黑色主干由中央向上下和两侧分叉，折线形成根系或枝节状对称结构。",
+    "meaning": "[资料支持／谨慎表述] 竹纹源于侗乡常见竹材及生活经验，可表达生长、繁衍和连续秩序；本图具体用途仍需结合出处。",
+    "source_ids": [
+      "S006"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "竹根花纹",
+      "黑色线形",
+      "分叉",
+      "左右对称"
+    ]
+  },
+  {
+    "id": "DX069",
+    "image": "01_编号图像/DX069.png",
+    "original_file": "人纹马纹.png",
+    "name": "人纹马纹·生活队列式",
+    "category": "人物与生活场景",
+    "main_elements": [
+      "人",
+      "马"
+    ],
+    "secondary_elements": [
+      "横向队列",
+      "线性边饰"
+    ],
+    "composition": "带状连续",
+    "symmetry_repeat": "平移重复",
+    "colors": [
+      "褐",
+      "黑",
+      "米白"
+    ],
+    "visual_description": "人形和马形以线描方式沿横向重复排列，形成连续的出行或生活场景带。",
+    "meaning": "[中性设计意向] 以马和人物形态表现出行、劳作或生活叙事；因缺少本图出处，不附加特定神话寓意。",
+    "source_ids": [
+      "S001"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "人纹马纹",
+      "生活场景",
+      "横向队列",
+      "线描"
+    ]
+  },
+  {
+    "id": "DX070",
+    "image": "01_编号图像/DX070.png",
+    "original_file": "榕树月亮纹.png",
+    "name": "榕树月亮纹·多层圆盘式",
+    "category": "自然天象",
+    "main_elements": [
+      "月亮花",
+      "榕树"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "放射枝叶"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "红",
+      "蓝",
+      "黄",
+      "绿",
+      "黑"
+    ],
+    "visual_description": "多层圆盘中中央月亮花被榕树枝叶和几何环带包围，外圈细节沿圆周连续。",
+    "meaning": "[资料支持] 榕树、月亮组合常见于儿童背扇等语境，可表达生命成长、健康和守护意向。",
+    "source_ids": [
+      "S002",
+      "S006"
+    ],
+    "element_ids": [
+      "DXE015"
+    ],
+    "generation_keywords": [
+      "侗绣",
+      "榕树月亮",
+      "同心圆",
+      "多彩",
+      "守护意向"
+    ]
+  },
+  {
+    "id": "DX071",
+    "image": "01_编号图像/DX071.png",
+    "original_file": "太阳花纹1.png",
+    "name": "太阳花纹·多彩动物花心式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "动物花形"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "放射瓣"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "蓝",
+      "粉",
+      "红",
+      "黑",
+      "白"
+    ],
+    "visual_description": "中心动物花形被多层彩色花瓣和几何圆环包围，外缘形成密集放射带。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "多彩",
+      "同心圆",
+      "动物花心"
+    ]
+  },
+  {
+    "id": "DX072",
+    "image": "01_编号图像/DX072.png",
+    "original_file": "太阳花纹2.png",
+    "name": "太阳花纹·紫绿八瓣式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "八瓣花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "锯齿环"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "紫",
+      "绿",
+      "黑",
+      "白"
+    ],
+    "visual_description": "紫绿八瓣花位于中心，多层黑白和紫绿锯齿圆环向外扩展。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "紫绿",
+      "八瓣",
+      "放射"
+    ]
+  },
+  {
+    "id": "DX073",
+    "image": "01_编号图像/DX073.png",
+    "original_file": "太阳花纹3.png",
+    "name": "太阳花纹·粉金八瓣式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "八瓣花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "几何环"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "粉",
+      "金黄",
+      "黑",
+      "白"
+    ],
+    "visual_description": "粉金色八瓣中心花被多层黑白几何圆环环绕，外缘呈均匀放射纹理。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "粉金",
+      "八瓣",
+      "同心圆"
+    ]
+  },
+  {
+    "id": "DX074",
+    "image": "01_编号图像/DX074.png",
+    "original_file": "太阳花纹4.png",
+    "name": "太阳花纹·玫红绿心式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "中心花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "三角放射"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "玫红",
+      "绿",
+      "黑",
+      "白"
+    ],
+    "visual_description": "玫红与绿色中心花向外连接黑白三角放射带，层次由圆环逐级展开。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "玫红绿",
+      "放射",
+      "圆形"
+    ]
+  },
+  {
+    "id": "DX075",
+    "image": "01_编号图像/DX075.png",
+    "original_file": "太阳花纹5.png",
+    "name": "太阳花纹·橙红暖色式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花"
+    ],
+    "secondary_elements": [
+      "花瓣",
+      "同心圆"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "橙",
+      "红",
+      "金黄",
+      "黑"
+    ],
+    "visual_description": "橙红和金黄色花瓣围绕中心圆排列，外圈以深色细线加强暖色放射节奏。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "橙红",
+      "暖色",
+      "放射"
+    ]
+  },
+  {
+    "id": "DX076",
+    "image": "01_编号图像/DX076.png",
+    "original_file": "太阳花纹6.png",
+    "name": "太阳花纹·粉白细环式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花"
+    ],
+    "secondary_elements": [
+      "同心细环",
+      "小花瓣"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "浅粉",
+      "米白",
+      "黑",
+      "红"
+    ],
+    "visual_description": "浅粉和米白小花瓣在多个细密圆环中排列，整体色彩柔和，结构细致。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "浅粉",
+      "细密同心圆",
+      "柔和"
+    ]
+  },
+  {
+    "id": "DX077",
+    "image": "01_编号图像/DX077.png",
+    "original_file": "太阳花纹7.png",
+    "name": "太阳花纹·黄黑蓝红式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花"
+    ],
+    "secondary_elements": [
+      "锯齿环",
+      "放射线"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "黄",
+      "黑",
+      "蓝",
+      "红"
+    ],
+    "visual_description": "黄色主体与黑色锯齿环形成强对比，蓝红小色块沿圆周点缀。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "黄黑",
+      "锯齿环",
+      "高对比"
+    ]
+  },
+  {
+    "id": "DX078",
+    "image": "01_编号图像/DX078.png",
+    "original_file": "太阳花纹8.png",
+    "name": "太阳花纹·蓝粉黑白式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "中心放射花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "三角纹"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "蓝",
+      "粉",
+      "黑",
+      "白"
+    ],
+    "visual_description": "蓝粉中心放射花被黑白三角纹和多层圆环围绕，结构清晰、冷暖对比明显。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "蓝粉",
+      "黑白",
+      "同心圆"
+    ]
+  },
+  {
+    "id": "DX079",
+    "image": "01_编号图像/DX079.png",
+    "original_file": "太阳花纹9.png",
+    "name": "太阳花纹·粉黄白放射式",
+    "category": "自然天象",
+    "main_elements": [
+      "太阳花",
+      "中心花"
+    ],
+    "secondary_elements": [
+      "放射瓣",
+      "圆环"
+    ],
+    "composition": "放射式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "粉",
+      "黄",
+      "白",
+      "黑"
+    ],
+    "visual_description": "粉黄白中心花向外形成多层放射瓣，深色轮廓将各层清晰分隔。",
+    "meaning": "[资料支持] 太阳纹与太阳崇拜、光明和守护观念相关，在儿童服饰等语境中还具有护佑意味。",
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S007"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "太阳花",
+      "粉黄白",
+      "放射花瓣",
+      "圆形"
+    ]
+  },
+  {
+    "id": "DX080",
+    "image": "01_编号图像/DX080.png",
+    "original_file": "月亮花纹.png",
+    "name": "月亮花纹·蓝心多彩圆盘式",
+    "category": "自然天象",
+    "main_elements": [
+      "月亮花"
+    ],
+    "secondary_elements": [
+      "同心圆",
+      "外圈几何"
+    ],
+    "composition": "同心圆式",
+    "symmetry_repeat": "旋转对称",
+    "colors": [
+      "深蓝",
+      "红",
+      "黄",
+      "绿",
+      "黑"
+    ],
+    "visual_description": "深蓝中心花被多彩花瓣和黑白几何圆环包围，整体形成层次丰富的圆盘纹样。",
+    "meaning": "[资料支持／谨慎表述] 月亮花以圆形、循环与夜空意象形成柔和的守护和生命节律表达；具体寓意需结合出处。",
+    "source_ids": [
+      "S006"
+    ],
+    "element_ids": [],
+    "generation_keywords": [
+      "侗绣",
+      "月亮花",
+      "蓝色中心",
+      "多彩圆盘",
+      "同心圆"
+    ]
+  }
+]
